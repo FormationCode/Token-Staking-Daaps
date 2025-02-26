@@ -4,7 +4,8 @@ A modern and professional decentralized application for token staking on the Eth
 
 ## Preview
 
-![TokenStake DApp Preview](https://shots.codepen.io/username/pen/abcdef-800.jpg)
+<img width="938" alt="TokenStake" src="https://github.com/user-attachments/assets/a050bbcb-316d-4702-a763-b37f9d3b553b" />
+
 
 ## Features
 
